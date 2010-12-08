@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: PostgreSQL 9.0.1 Win32
+Bundle-SymbolicName: org.opensixen.bundle.postgres.win32
+Bundle-Version: 9.0.1
